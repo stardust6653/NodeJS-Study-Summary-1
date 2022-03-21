@@ -1,4 +1,4 @@
-# NodeJS-Study-Summary
+# NodeJS-Study-Summary-1
 
 > ### NodeJS란?
 * 웹브라우저 외의 영역에서도 JS를 실행시킬 수 있도록 하는 패키지
